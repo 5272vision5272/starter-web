@@ -13,3 +13,6 @@ Will deploy it using ansible
 ##This IS new WBE files 
 WEB STARTER
 
+###Copyright
+Notice for copyright
+
